@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Ukraine</h3>
 
 - 🔭 I’m currently working on **a lot of different things right now**
-- 🌱 I’m currently learning **that interests me**
+- 🌱 I’m currently learning **React**
 - 🤔 I’m looking for help with **more time**
 - 📫 How to reach me: **koval.ss92@gmail.com**
 - 👨‍💻 All of my projects are available at [freelancehunt.com](https://freelancehunt.com/freelancer/Stanislav_dnp.html)

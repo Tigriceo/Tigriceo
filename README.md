@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Stanislav</h1>
     <h3 align="center">A passionate full-stack developer from Ukraine</h3>
 
-    - 🔭 I’m currently working on **a lot of different things right now**
-
-    - 🌱 I’m currently learning **that interests me**
-
-    - 👨‍💻 All of my projects are available at
-    [https://freelancehunt.com/freelancer/Stanislav_dnp.html](https://freelancehunt.com/freelancer/Stanislav_dnp.html)
-
-    - 📫 How to reach me **koval.ss92@gmail.com**
-
-    - ⚡ Fun fact **I am very goal oriented**
+- 🔭 I’m currently working on **a lot of different things right now**
+- 🌱 I’m currently learning **that interests me**
+- 🤔 I’m looking for help with **more time**
+- 📫 How to reach me: **koval.ss92@gmail.com**
+- 👨‍💻 All of my projects are available at [freelancehunt.com](https://freelancehunt.com/freelancer/Stanislav_dnp.html)
+- ⚡ Fun fact: **I love what I do**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

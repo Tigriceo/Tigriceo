@@ -65,6 +65,7 @@
 </p>
 <h3 align="left">CMS:</h3>
 <p align="left"> 
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+    <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+      <img src="/img/wp.svg" alt="xd" width="40" height="40"/>
     </a>
 </p>

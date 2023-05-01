@@ -66,6 +66,6 @@
 <h3 align="left">CMS:</h3>
 <p align="left"> 
     <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-      <img src="./img/wp.svg" alt="xd" width="40" height="40"/>
+      <img src="./img/wp.svg" style="background-color:#22272e" alt="xd" width="40" height="40"/>
     </a>
 </p>

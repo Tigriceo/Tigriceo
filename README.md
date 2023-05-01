@@ -68,4 +68,8 @@
     <a href="https://wordpress.org/" title="wordpress" target="_blank" rel="noreferrer">
       <img src="./img/wp.svg" style="background-color:#22272e;border-radius:50%" alt="wordpress" width="40" height="40"/>
     </a>
+    +
+    <a href="https://woocommerce.com/" title="woocommerce" target="_blank" rel="noreferrer">
+      <img src="./img/woo.svg" alt="woocommerce" width="180"/>
+    </a>
 </p>

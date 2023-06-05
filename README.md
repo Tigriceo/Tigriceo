@@ -73,3 +73,4 @@
       <img src="./img/woo.svg" alt="woocommerce" width="180"/>
     </a>
 </p>
+<a href="https://freelancehunt.com/freelancer/Stanislav_dnp.html?from=shield&r=31AE7" target="_blank"><img src="https://freelancehunt.com/shields/display/id/521906/type/reviews?style=for-the-badge&amp;lang=ru" alt="Freelancehunt — простой и честный фриланс"></a>
